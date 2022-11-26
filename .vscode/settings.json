@@ -1,0 +1,13 @@
+{
+  "java.project.sourcePaths": [
+    "02.01. Criando o primeiro programa Java",
+    "02.03. Desafio - correção de erros",
+    "02.09. Desafio - variáveis e operadores aritméticos",
+    "02.16. Desafio - tipos primitivos e conversão",
+    "02.18. Desafio - promoção aritmética",
+    "02.23. Desafio - String, entrada de dados, printf, etc",
+    "03.04. Desafio - operadores de igualdade e lógicos",
+    "03.09. Desafio - calculadora complexa de IMC",
+    "03.15. Desafio - estrutura switch e operador ternário"
+  ]
+}
