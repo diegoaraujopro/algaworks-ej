@@ -1,5 +1,6 @@
 {
   "java.project.sourcePaths": [
+    "05.25. Desafio - composição de objetos e métodos",
     "03.15. Desafio - estrutura switch e operador ternário",
     "03.09. Desafio - calculadora complexa de IMC",
     "03.04. Desafio - operadores de igualdade e lógicos",
@@ -9,6 +10,6 @@
     "02.09. Desafio - variáveis e operadores aritméticos",
     "02.03. Desafio - correção de erros",
     "02.01. Criando o primeiro programa Java",
-    "05.25. Desafio - composição de objetos e métodos"
+    "05.35. Desafio - membros estáticos"
   ]
 }
